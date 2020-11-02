@@ -1,0 +1,6 @@
+# ninja log v5
+1	372	0	CMakeFiles/model_autogen	43d4f74ff6e0a133
+1	372	0	model_autogen/mocs_compilation.cpp	43d4f74ff6e0a133
+375	1990	615914992	CMakeFiles/model.dir/main.cpp.obj	998467d15662169e
+372	2005	615914992	CMakeFiles/model.dir/model_autogen/mocs_compilation.cpp.obj	ba61a6311197276f
+379	16692	615915004	CMakeFiles/model.dir/widget.cpp.obj	e843d3ef8fbf054

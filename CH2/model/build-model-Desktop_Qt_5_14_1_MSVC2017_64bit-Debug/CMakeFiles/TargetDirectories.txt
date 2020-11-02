@@ -1,0 +1,4 @@
+E:/programme/Qt/CH2/model/build-model-Desktop_Qt_5_14_1_MSVC2017_64bit-Debug/CMakeFiles/model.dir
+E:/programme/Qt/CH2/model/build-model-Desktop_Qt_5_14_1_MSVC2017_64bit-Debug/CMakeFiles/edit_cache.dir
+E:/programme/Qt/CH2/model/build-model-Desktop_Qt_5_14_1_MSVC2017_64bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/programme/Qt/CH2/model/build-model-Desktop_Qt_5_14_1_MSVC2017_64bit-Debug/CMakeFiles/model_autogen.dir
